@@ -1,4 +1,4 @@
-# Twitter-Sentiment-Analysis--Supply-Chain
+# Twitter-Sentiment-Analysis-Supply Chain (Python)
 
 
 Objective:
