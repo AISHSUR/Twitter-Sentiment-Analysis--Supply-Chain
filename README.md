@@ -1,7 +1,9 @@
 # Twitter-Sentiment-Analysis--Supply-Chain
 
 
+Objective:
 The intend of this project is to perform text analytics over the twitter data to identify trends and emerging patterns from conversational data using Python.
+This project sets up a foundational platform to perform text analysis that helps finding out emerging themes in supply chain, with a focus on human rights issues. Building over the theme helps identify potential suppliers tagged with human right issues, that helps the organization act on strategies to improve their Environmental Social Governance(ESG) ratings over time.
 
 
 Prerequities
